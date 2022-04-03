@@ -1,0 +1,8 @@
+Services/AuthService/Aplication/bin*
+Services/AuthService/Aplication/obj*
+
+Services/AuthService/Domain/bin/*
+Services/AuthService/Domain/obj/*
+
+Services/AuthService/Infrastructure/bin/*
+Services/AuthService/Infrastructure/obj/*
