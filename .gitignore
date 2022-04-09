@@ -6,3 +6,7 @@ Services/AuthService/Domain/obj/*
 
 Services/AuthService/Infrastructure/bin/*
 Services/AuthService/Infrastructure/obj/*
+
+
+CoreLayer/bin/*
+CoreLayer/obj/*
